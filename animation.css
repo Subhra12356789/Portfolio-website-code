@@ -1,0 +1,156 @@
+
+@keyframes contect{
+    0%{
+       left: -40%;
+        opacity:0%;
+    }
+    20%{
+        opacity:00%; 
+    }
+    40%{
+        opacity:80%;  
+    }
+    80%{
+        opacity:100%;  
+    }
+    100%{
+        left: 65%;
+       opacity:100%; 
+    }
+}
+
+@keyframes dp{
+    0%{
+        box-shadow:      
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 12px #0fa,
+        0 0 42px #0fa,
+        0 0 52px #0fa,
+        0 0 62px #0fa,
+        0 0 101px #0fa;
+    }
+    25%{
+        box-shadow:      
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 3px #0fa,
+        0 0 3px #0fa,
+        0 0 3px #0fa,
+        0 0 3px #0fa,
+        0 0 3px  #0fa
+    }
+    50%{
+        left:-15%; 
+        box-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 12px rgb(255, 0, 119),
+        0 0 42px rgb(255, 0, 119),
+        0 0 52px rgb(255, 0, 119),
+        0 0 62px rgb(255, 0, 119),
+        0 0 101px rgb(255, 0, 119);
+
+    }
+    75%{
+        box-shadow:      
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 3px rgb(255, 0, 119),
+        0 0 3px rgb(255, 0, 119),
+        0 0 3px rgb(255, 0, 119),
+        0 0 3px rgb(255, 0, 119),
+        0 0 3px rgb(255, 0, 199);
+      
+    }
+    100%{
+        box-shadow:      
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 12px #0fa,
+        0 0 42px #0fa,
+        0 0 52px #0fa,
+        0 0 62px #0fa,
+        0 0 101px #0fa;
+       
+    }
+   
+}
+
+
+@keyframes name{
+    0%{
+        
+        opacity:0%;
+    }
+    20%{
+        
+    }
+    40%{
+        
+    }
+    80%{
+        
+    }
+    100%{
+        
+       opacity:100%; 
+    }
+}
+
+
+@keyframes glow{
+    from{text-shadow:0px 0px 5px #fff,0px 0px 5px #ffffff;}
+    to{text-shadow:0px 0px 20px #fff,0px 0px 20px #fafafc;}
+  }
+
+  
+@keyframes glow2{
+    from{text-shadow:0px 0px 5px #ff0066,0px 0px 5px #ff0066;}
+    to{text-shadow:0px 0px 20px #ff0066,0px 0px 20px #ff0066;}
+  }
+
+  
+@keyframes about1{
+    0%{
+      
+       left:120%;
+    }
+    20%{
+        left:120%;
+        
+    }
+    40%{
+        
+    }
+    80%{
+        
+    }
+    100%{
+       left:0%;
+    }
+}
+ 
+@keyframes about2{
+    0%{
+      
+       left:-120%;
+    }
+    20%{
+        left:-120%;
+    }
+    40%{
+        
+    }
+    80%{
+        
+    }
+    100%{
+       left:0%;
+    }
+}
